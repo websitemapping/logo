@@ -13,6 +13,7 @@
 Font
   
     #929292, #2B90B9
+    #3B3B3B, #2A13BD
 
 
 Background
@@ -23,7 +24,10 @@ Background
 Icon
     
     #08728C, #6D6D6D
+    #2A13BD, #3B3B3B
     
+
+
     
 
 
@@ -39,6 +43,12 @@ Icon
 
 ## 4
 ![4/cover.png](4/cover.png)
+
+## 5
+![5/cover.png](5/cover.png)
+
+## 6
+![6/cover.png](6/cover.png)
 
 
 ---
