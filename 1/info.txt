@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Midiet_Serif_Light
+font link: http://www.yoworks.com/midiet/index.html
+font author: Yamaoka Yasuhiro
+font author site: http://www.yoworks.com/
+
+
+icon designer: Xela Ub
+icon designer link: /xela.
+        
+
+fontColor: {"gradient-0":"#08728C","gradient-1":"#6D6D6D"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#08728C","gradient-1":"#6D6D6D"}
+
+      
